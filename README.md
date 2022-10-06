@@ -8,3 +8,5 @@ A portal to help candidates upload their resumes and allow recruiters to search 
 
 ![Screenshot (483)](https://user-images.githubusercontent.com/61287560/194357243-9e4ae4d6-e79e-40bf-bcf9-12bfccc70707.png)
 
+* Choose a server and run your application.
+
