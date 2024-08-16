@@ -1,5 +1,5 @@
 # Resume System
-A portal to help candidates upload their resumes and allow recruiters to search for suitable candidates based on their profiles.
+This is a job application platform built with Java Spring Boot.
 
 # Implementing the Project
 
