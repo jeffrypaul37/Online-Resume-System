@@ -1,5 +1,5 @@
 # Resume System
-This is a job application platform built with Java Spring Boot.
+This is a job application platform built with Spring Boot.
 
 # Implementing the Project
 
